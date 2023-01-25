@@ -1,8 +1,9 @@
 # THM-SteelMountain
 I lerarn how haced the Windows machine. I use metasploit for initial access, utilise powershell for Windows privilege escalation enumeration and I learn a new technique to get Administrator access.
-< THM Steel Mountain room
 
-#Task1 Open website in adress 10.10.135.167 in Virtaul Machine. I open page source preview to see name employee of the month: Bill Harper
+<THM Steel Mountain room
+
+#Task1 Open website in adress 10.10.135.167 in Virtaul Machine. I open page source preview to see name employee of the month: `Bill Harper`
 
 ![This is an image](https://github.com/karolinaras/THM-SteelMountain/blob/dad0e029bde0c3497b42de1d77897a4d47ed3977/SteelMountain1.png)
 
@@ -30,7 +31,7 @@ exploit
 ````
 
 ![This is an image](https://github.com/karolinaras/THM-SteelMountain/blob/dad0e029bde0c3497b42de1d77897a4d47ed3977/SteelMountain4.png)
-![This is an image]https://github.com/karolinaras/THM-SteelMountain/blob/dad0e029bde0c3497b42de1d77897a4d47ed3977/SteelMountain5.png)
+![This is an image](https://github.com/karolinaras/THM-SteelMountain/blob/dad0e029bde0c3497b42de1d77897a4d47ed3977/SteelMountain5.png)
 
 #Task5 Now I have access to system bill and I must find Desktop and user flag. I use many times command `cd ..` that  I been in directory 
 C:\Users\bill\AppData\Roaming\Microsoft\Windows\Start Menu\Programs and I want go to Desktop. 
